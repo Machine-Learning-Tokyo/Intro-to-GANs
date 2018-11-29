@@ -1,5 +1,5 @@
 # Simple GAN
-This is a series of notebooks developed for the *Intro to GANs* workshop for **Machine Learning Tokyo (MLT)**.
+This is a series of notebooks developed for the *Intro to GANs* workshop for **Machine Learning Tokyo (MLT)**. All resources and materials can be found on discourse https://discuss.mltokyo.ai
 
 - Simple_GAN_0 contains the whole code for building a simple vanilla GAN, as well instructions and comments.
 
